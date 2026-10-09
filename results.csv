@@ -1,0 +1,11 @@
+profil,RIASEC,top3,status
+Texniki sagird,"[5, 4, 2, 1, 2, 3]",Mexanika muhendisliyi (100%); Elektrik ve elektronika muhendisliyi (99%); Insaat muhendisliyi (99%),OK
+Alim tipli,"[2, 5, 1, 2, 1, 3]",Biologiya ve biotexnologiya (98%); Əczaçılıq (98%); Informasiya tehlukesizliyi (97%),OK
+Yaradici,"[2, 2, 5, 3, 3, 1]",Dizayn (100%); Jurnalistika ve media (97%); Memarliq (95%),OK
+Insansever,"[1, 2, 3, 5, 2, 2]",Pedaqogika (99%); Turizm ve otelcilik (96%); Psixologiya (94%),OK
+Biznes meyilli,"[1, 2, 2, 3, 5, 3]",Biznesin idare edilmesi (100%); Beynelxalq munasibetler (99%); Huquqsunasliq (97%),OK
+Nizam ve hesab,"[1, 3, 1, 2, 3, 5]",Maliyye ve muhasibat (100%); Iqtisadiyyat (99%); Huquqsunasliq (94%),OK
+Natiq / diplomat,"[1, 3, 2, 4, 5, 3]",Beynelxalq munasibetler (100%); Biznesin idare edilmesi (99%); Huquqsunasliq (98%),OK
+Hamisi 5 (ekstrem),"[5, 5, 5, 5, 5, 5]",Stomatologiya (96%); Memarliq (96%); Turizm ve otelcilik (95%),N/A (xeta yoxdur)
+Hamisi 1 (ekstrem),"[1, 1, 1, 1, 1, 1]",Stomatologiya (96%); Memarliq (96%); Turizm ve otelcilik (95%),N/A (xeta yoxdur)
+Hamisi 0 (bos),"[0, 0, 0, 0, 0, 0]",Əczaçılıq (0%); Turizm ve otelcilik (0%); Tibb (0%),N/A (xeta yoxdur)

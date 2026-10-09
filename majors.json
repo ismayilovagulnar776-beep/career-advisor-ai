@@ -1,0 +1,553 @@
+[
+  {
+    "id": 1,
+    "name": "Komputer elmleri",
+    "group": "",
+    "riasec": [
+      3,
+      5,
+      2,
+      1,
+      2,
+      3
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Informatika"
+    ],
+    "careers": [
+      "Proqramci",
+      "Data analitik",
+      "Kibertehlukesizlik mutexessisi"
+    ],
+    "universities": [],
+    "description": "Proqramlasdirma, alqoritmler, verilenler bazasi ve suni intellekt."
+  },
+  {
+    "id": 2,
+    "name": "Informasiya tehlukesizliyi",
+    "group": "",
+    "riasec": [
+      3,
+      5,
+      1,
+      1,
+      2,
+      4
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Informatika"
+    ],
+    "careers": [
+      "Tehlukesizlik analitiki",
+      "Sizma testcisi",
+      "Sistem administratoru"
+    ],
+    "universities": [],
+    "description": "Sebekelerin ve melumatlarin muhafizesi."
+  },
+  {
+    "id": 3,
+    "name": "Tibb",
+    "group": "",
+    "riasec": [
+      3,
+      5,
+      1,
+      5,
+      2,
+      2
+    ],
+    "subjects": [
+      "Biologiya",
+      "Kimya"
+    ],
+    "careers": [
+      "Hekim",
+      "Cerrah",
+      "Tibbi tedqiqatci"
+    ],
+    "universities": [],
+    "description": "Insan orqanizmi, diaqnostika ve mualice."
+  },
+  {
+    "id": 4,
+    "name": "Stomatologiya",
+    "group": "",
+    "riasec": [
+      4,
+      4,
+      2,
+      4,
+      2,
+      3
+    ],
+    "subjects": [
+      "Biologiya",
+      "Kimya"
+    ],
+    "careers": [
+      "Stomatoloq",
+      "Ortodont",
+      "Dis texnikasi"
+    ],
+    "universities": [],
+    "description": "Agiz bosluğu xestelikleri ve mualicesi."
+  },
+  {
+    "id": 5,
+    "name": "Əczaçılıq",
+    "group": "",
+    "riasec": [
+      3,
+      5,
+      1,
+      3,
+      2,
+      4
+    ],
+    "subjects": [
+      "Kimya",
+      "Biologiya"
+    ],
+    "careers": [
+      "Eczaci",
+      "Dermanlarin tedqiqatcisi",
+      "Keyfiyyet nezaretcisi"
+    ],
+    "universities": [],
+    "description": "Dermanlarin hazirlanmasi ve istifadesi."
+  },
+  {
+    "id": 6,
+    "name": "Huquqsunasliq",
+    "group": "",
+    "riasec": [
+      1,
+      3,
+      2,
+      4,
+      4,
+      4
+    ],
+    "subjects": [
+      "Tarix",
+      "Azerbaycan dili"
+    ],
+    "careers": [
+      "Vekil",
+      "Hakim",
+      "Huquq meslehetcisi"
+    ],
+    "universities": [],
+    "description": "Qanunlar, mehkeme prosesleri ve huquqi meslehet."
+  },
+  {
+    "id": 7,
+    "name": "Iqtisadiyyat",
+    "group": "",
+    "riasec": [
+      1,
+      4,
+      1,
+      2,
+      4,
+      5
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Cografiya"
+    ],
+    "careers": [
+      "Iqtisadci",
+      "Maliyye analitiki",
+      "Bank mutexessisi"
+    ],
+    "universities": [],
+    "description": "Iqtisadi proseslerin tehlili ve proqnozu."
+  },
+  {
+    "id": 8,
+    "name": "Maliyye ve muhasibat",
+    "group": "",
+    "riasec": [
+      1,
+      3,
+      1,
+      2,
+      3,
+      5
+    ],
+    "subjects": [
+      "Riyaziyyat"
+    ],
+    "careers": [
+      "Muhasib",
+      "Auditor",
+      "Maliyye meneceri"
+    ],
+    "universities": [],
+    "description": "Maliyye hesabatlari, vergi ve audit."
+  },
+  {
+    "id": 9,
+    "name": "Biznesin idare edilmesi",
+    "group": "",
+    "riasec": [
+      1,
+      2,
+      2,
+      3,
+      5,
+      3
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Cografiya"
+    ],
+    "careers": [
+      "Menecer",
+      "Sahibkar",
+      "Marketoloq"
+    ],
+    "universities": [],
+    "description": "Teskilatlarin ve layihelerin idare edilmesi."
+  },
+  {
+    "id": 10,
+    "name": "Marketinq ve reklam",
+    "group": "",
+    "riasec": [
+      1,
+      2,
+      4,
+      3,
+      5,
+      2
+    ],
+    "subjects": [
+      "Azerbaycan dili",
+      "Tarix"
+    ],
+    "careers": [
+      "Marketoloq",
+      "SMM mutexessisi",
+      "Brend meneceri"
+    ],
+    "universities": [],
+    "description": "Mehsul ve xidmetlerin teqdimati ve satisi."
+  },
+  {
+    "id": 11,
+    "name": "Mexanika muhendisliyi",
+    "group": "",
+    "riasec": [
+      5,
+      4,
+      2,
+      1,
+      2,
+      3
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Fizika"
+    ],
+    "careers": [
+      "Mexanik muhendis",
+      "Layihe muhendisi",
+      "Texnoloq"
+    ],
+    "universities": [],
+    "description": "Masin ve mexanizmlerin layihelendirilmesi."
+  },
+  {
+    "id": 12,
+    "name": "Insaat muhendisliyi",
+    "group": "",
+    "riasec": [
+      5,
+      4,
+      2,
+      1,
+      3,
+      3
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Fizika"
+    ],
+    "careers": [
+      "Insaat muhendisi",
+      "Layihe rehberi",
+      "Texniki nezaretci"
+    ],
+    "universities": [],
+    "description": "Bina, korpu ve yol layihelerinin qurulmasi."
+  },
+  {
+    "id": 13,
+    "name": "Neft ve qaz muhendisliyi",
+    "group": "",
+    "riasec": [
+      5,
+      4,
+      1,
+      1,
+      2,
+      4
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Fizika",
+      "Kimya"
+    ],
+    "careers": [
+      "Neft muhendisi",
+      "Geoloq",
+      "Quyu muhendisi"
+    ],
+    "universities": [],
+    "description": "Neft ve qazin cixarilmasi ve emali."
+  },
+  {
+    "id": 14,
+    "name": "Elektrik ve elektronika muhendisliyi",
+    "group": "",
+    "riasec": [
+      5,
+      5,
+      2,
+      1,
+      2,
+      3
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Fizika"
+    ],
+    "careers": [
+      "Elektrik muhendisi",
+      "Embedded muhendis",
+      "Avtomatika muhendisi"
+    ],
+    "universities": [],
+    "description": "Elektrik sistemleri ve elektron qurgular."
+  },
+  {
+    "id": 15,
+    "name": "Memarliq",
+    "group": "",
+    "riasec": [
+      3,
+      3,
+      5,
+      2,
+      3,
+      3
+    ],
+    "subjects": [
+      "Riyaziyyat",
+      "Rəsm"
+    ],
+    "careers": [
+      "Memar",
+      "Seher planlasdiricisi",
+      "Interyer dizayneri"
+    ],
+    "universities": [],
+    "description": "Bina ve seher muhitinin layihelendirilmesi."
+  },
+  {
+    "id": 16,
+    "name": "Dizayn",
+    "group": "",
+    "riasec": [
+      2,
+      2,
+      5,
+      3,
+      3,
+      1
+    ],
+    "subjects": [
+      "Rəsm",
+      "Informatika"
+    ],
+    "careers": [
+      "Qrafik dizayner",
+      "UX dizayner",
+      "Moda dizayneri"
+    ],
+    "universities": [],
+    "description": "Vizual kommunikasiya ve mehsul dizayni."
+  },
+  {
+    "id": 17,
+    "name": "Jurnalistika ve media",
+    "group": "",
+    "riasec": [
+      1,
+      3,
+      5,
+      4,
+      4,
+      2
+    ],
+    "subjects": [
+      "Azerbaycan dili",
+      "Tarix"
+    ],
+    "careers": [
+      "Jurnalist",
+      "Redaktor",
+      "Kontent produseri"
+    ],
+    "universities": [],
+    "description": "Xeber hazirlama, media ve kommunikasiya."
+  },
+  {
+    "id": 18,
+    "name": "Psixologiya",
+    "group": "",
+    "riasec": [
+      1,
+      5,
+      3,
+      5,
+      2,
+      2
+    ],
+    "subjects": [
+      "Biologiya",
+      "Azerbaycan dili"
+    ],
+    "careers": [
+      "Psixoloq",
+      "Karyera meslehetcisi",
+      "HR mutexessisi"
+    ],
+    "universities": [],
+    "description": "Insan davranisi ve dusuncesinin tedqiqi."
+  },
+  {
+    "id": 19,
+    "name": "Pedaqogika",
+    "group": "",
+    "riasec": [
+      1,
+      2,
+      3,
+      5,
+      3,
+      3
+    ],
+    "subjects": [
+      "Azerbaycan dili",
+      "Tarix"
+    ],
+    "careers": [
+      "Muellim",
+      "Terbiyeci",
+      "Tehsil meneceri"
+    ],
+    "universities": [],
+    "description": "Tedris metodlari ve usaq inkisafi."
+  },
+  {
+    "id": 20,
+    "name": "Beynelxalq munasibetler",
+    "group": "",
+    "riasec": [
+      1,
+      3,
+      2,
+      4,
+      5,
+      3
+    ],
+    "subjects": [
+      "Tarix",
+      "Xarici dil"
+    ],
+    "careers": [
+      "Diplomat",
+      "Beynelxalq analitik",
+      "Tercumeci"
+    ],
+    "universities": [],
+    "description": "Dovletlerarasi elaqeler ve diplomatiya."
+  },
+  {
+    "id": 21,
+    "name": "Biologiya ve biotexnologiya",
+    "group": "",
+    "riasec": [
+      3,
+      5,
+      2,
+      2,
+      1,
+      3
+    ],
+    "subjects": [
+      "Biologiya",
+      "Kimya"
+    ],
+    "careers": [
+      "Bioloq",
+      "Laborant",
+      "Biotexnoloq"
+    ],
+    "universities": [],
+    "description": "Canli orqanizmlerin tedqiqi ve texnologiyalari."
+  },
+  {
+    "id": 22,
+    "name": "Riyaziyyat ve statistika",
+    "group": "",
+    "riasec": [
+      1,
+      5,
+      2,
+      1,
+      1,
+      4
+    ],
+    "subjects": [
+      "Riyaziyyat"
+    ],
+    "careers": [
+      "Statistik",
+      "Aktuari",
+      "Tedqiqatci"
+    ],
+    "universities": [],
+    "description": "Riyazi modellesdirme ve melumat tehlili."
+  },
+  {
+    "id": 23,
+    "name": "Turizm ve otelcilik",
+    "group": "",
+    "riasec": [
+      2,
+      2,
+      3,
+      5,
+      4,
+      3
+    ],
+    "subjects": [
+      "Cografiya",
+      "Xarici dil"
+    ],
+    "careers": [
+      "Otel meneceri",
+      "Tur operatoru",
+      "Bələdçi"
+    ],
+    "universities": [],
+    "description": "Turizm xidmetlerinin teskili."
+  }
+]
