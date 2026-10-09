@@ -39,3 +39,7 @@ node_modules/
 # IDE
 .idea/
 .vscode/
+# Maven / Gradle build
+target/
+build/
+HELP.md
